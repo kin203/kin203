@@ -2,8 +2,6 @@
   
  ​![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
  
- 
- ​<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 !! Call me Kien Nguyen
 
 ​I'm learning Software Engineer in Electric Power University in Hanoi, Vietnam
@@ -15,3 +13,6 @@
   
  ​⭐️ From [​kin203​](https://github.com/kin203)
     
+ 
+ ​Playing on Spotify 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21v6wskm6t7eikp77f44rvrhi&unique={true|1|on|yes})
