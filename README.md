@@ -1,13 +1,13 @@
 ### Hi there 👋
   
- ​![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+![](https://komarev.com/ghpvc/?username=kin203&color=red)
  
 !! Call me Kien Nguyen
 
 ​I'm student and learning Software Engineer in Electric Power University in Hanoi, Vietnam
   
  
-​![​Kiên Nguyễn github stats​](https://github-readme-stats.vercel.app/api?username=kin203&show_icons=true&hide_border=true) 
+​![​Kiên Nguyễn github stats​](https://github-readme-stats.vercel.app/api?username=kin203&show_icons=true&theme=radical) 
  
  ​[![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=kin203&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kin203/github-readme-stats)
  
