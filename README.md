@@ -13,10 +13,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kin203&theme=algolia&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kin203&theme=algolia)
 
  ​Playing on Spotify 
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21v6wskm6t7eikp77f44rvrhi&unique={true|1|on|yes})
-
-[​![GitHub​](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kin203)  [​![Facebook​](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/nk203)
 
 Fan @vngtho 1000 năm 🌝
 
