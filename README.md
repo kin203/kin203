@@ -6,11 +6,9 @@
 
 ​I'm student and learning Software Engineer in Electric Power University in Hanoi, Vietnam
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kin203&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kin203&theme=algolia) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kin203&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kin203&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kin203&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kin203&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kin203&theme=algolia&utcOffset=8)
  ​Playing on Spotify 
